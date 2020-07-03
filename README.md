@@ -5,7 +5,7 @@
 Trabalhar com 3 bancos de dados diferentes: MySQL, SQL Server e Oracle e também introdução às linguagens T-SQL e PLSQL.<br>
 Aprendi as diferenças na linguagem SQL, as tarefas de infraestrutura e instalação.<br>
 Vi a diferença entre ambientes OLTP, OLAP e também o que é um Datawarehouse.<br>
-E vi à sequencia natural de Bancos de Dados Relacionais: Business Intelligence.
+Fechando com à sequencia natural de Bancos de Dados Relacionais: Business Intelligence.
 
 ## Tópicos abordados durante o curso:
 
