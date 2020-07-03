@@ -7,7 +7,7 @@ Aprendi as diferenças na linguagem SQL, as tarefas de infraestrutura e instala�
 Vi a diferença entre ambientes OLTP, OLAP e também o que é um Datawarehouse.<br>
 E vi à sequencia natural de Bancos de Dados Relacionais: Business Intelligence.
 
-## Tópicos:
+## Tópicos abordados durante o curso:
 
 - Entender a diferença entre um Administrador de Dados e um DBA
 - Criar bancos de dados consistentes do ponto de infraestrutura e modelagem.
