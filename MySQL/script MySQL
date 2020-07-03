@@ -1,2 +1,4 @@
-/* Iniciando a Modelagem Física */
+/*Modelagem Física */
 
+/* Criando um banco de dados */ 
+CREATE DATABASE PROJETO;
