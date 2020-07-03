@@ -1,6 +1,6 @@
 # Sobre este curso
 
-## :dvd: Curso de SQL:<br> Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL do professor Felipe Mafra
+## :dvd: Curso de SQL:<br> Business Intelligence, SQL Server, MySQL, Oracle, T-SQL e PLSQL - Felipe Mafra
 
 Trabalhar com 3 bancos de dados diferentes: MySQL, SQL Server e Oracle e também introdução às linguagens T-SQL e PLSQL.<br>
 Aprendi as diferenças na linguagem SQL, as tarefas de infraestrutura e instalação.<br>
