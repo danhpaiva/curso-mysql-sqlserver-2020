@@ -68,4 +68,4 @@ In this project we use the following technologies:
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
 
 <h2 id=licence>🆓 Licence</h2>
-This project is under license: <a href="https://github.com/danhpaiva/matuto-challenge-csharp/blob/main/LICENSE">MIT</a>
+This project is under license: <a href="https://github.com/danhpaiva/curso-mysql-sqlserver-2020/blob/master/LICENSE">MIT</a>
